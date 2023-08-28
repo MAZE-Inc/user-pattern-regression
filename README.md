@@ -1,4 +1,4 @@
-# wef
+# A-MAZE : User Pattern Regression System
 ## Introduction
 ### Hardware Specification
 | 품목 | 규격 |
