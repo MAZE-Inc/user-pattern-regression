@@ -104,9 +104,9 @@ $ sudo apt-get install python3-pip
     ```
 
 #### 기타 패키지 Installation
-    ```shell
-    $ sudo pip3 install -r requirements.txt
-    ```
+```shell
+$ sudo pip3 install -r requirements.txt
+```
 
 ## Method
 
