@@ -114,6 +114,7 @@ $ sudo pip3 install -r requirements.txt
 ```
 
 ## 사용자 패턴 예측 4개의 모델
+![](./images/user_pattern_regression.png)
 아래 4개의 모델 모두 사용자의 A-MAZE 앱 사용 로그를 기반으로 예측하는 ConvLSTM모델입니다.  
 사용자의 단순 앱 사용 로그 뿐만 아니라, 메뉴의 이미지, 카페의 위치 등 종합적인 맥락을 고려하기 위해 ConvLSTM을 사용하였습니다.
 
